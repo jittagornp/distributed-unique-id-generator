@@ -1,11 +1,16 @@
+/*
+ * Copyright 2021-Current jittagornp.me
+ */
 package me.jittagornp.example;
 
 import lombok.extern.slf4j.Slf4j;
 import org.apache.log4j.BasicConfigurator;
-
 import java.security.SecureRandom;
 import java.time.Instant;
 
+/**
+ * @author jitta
+ */
 @Slf4j
 public class IdGeneratorTest {
 
